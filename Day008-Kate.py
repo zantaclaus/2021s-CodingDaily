@@ -8,7 +8,6 @@ def checkList():
             return 1
     return 0
 
-
 ans = checkList()
 if(ans):
     print("Yes")
