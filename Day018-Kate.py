@@ -6,4 +6,4 @@ for item1 in message:
         if item1 == item2:
             ans += 1
 
-# print(ans)
+#print(ans)#
